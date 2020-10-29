@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-size: 35px;
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 72px;
+    letter-spacing: 15px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: indianred;
+}
+#top-menu{
+    width: 300px;
+    margin: 0 auto;
+
+}
+#left, #right{
+    width: 40vw;
+    display: inline-block;
+  
+}
+#img{
+    width: 30vw;
+    margin-top: 10px;
+    border: 2px solid lightsteelblue;
+    border-radius: 55px 5px 40px 0;
+}
+
+.item{
+    margin: 5vw;
+    border: 4px solid lightseagreen;
+    border-radius: 15px;
+}
+
+
